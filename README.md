@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## NextJS - TailwindCSS Template
 
-## Getting Started
+You don't choose your starter Pokemon everyday, do you?
 
 First, run the development server:
 

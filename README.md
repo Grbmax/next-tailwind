@@ -1,4 +1,4 @@
-## NextJSv13 - TailwindCSS Template
+## NextJSv13 - TailwindCSS Boilerplate
 
 You don't choose your starter Pokemon everyday, do you?
 
